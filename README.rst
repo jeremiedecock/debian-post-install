@@ -16,7 +16,7 @@ the Debian post-install tasks.
 
 Note:
 
-    This project is still in beta stage.
+    This project is still in alpha stage.
 
 
 Bug reports
