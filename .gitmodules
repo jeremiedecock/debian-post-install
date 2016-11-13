@@ -1,3 +1,6 @@
 [submodule "common"]
 	path = common
 	url = https://github.com/jeremiedecock/debian-based-post-install-common.git
+[submodule "submodules/iptables"]
+	path = submodules/iptables
+	url = https://github.com/jeremiedecock/iptables-scripts.git
